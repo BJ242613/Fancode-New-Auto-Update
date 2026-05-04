@@ -3,11 +3,7 @@
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/142408_english_hls_691146f57873445_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142349" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png" group-title="Football", Dream Sports Championship Football 2026: Classic Football Academy Vs Fc Madras (ENGLISH)
+#EXTINF:-1 tvg-id="142175" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142175_5826_AST-W_WHU-W_FC-Web.jpg" group-title="Football", Women's Super League 2025-26: Aston Villa Women Vs West Ham United Women (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142349_english_hls_daebce31f941961_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142348" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png" group-title="Football", Dream Sports Championship Football 2026: Alchemy International Fa Vs Mohun Bagan Super Giants (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142348_english_hls_638c5d83e167927_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/142175_english_hls_b388b2c72640822_1ta-di_h264/index.m3u8
