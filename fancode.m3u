@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="142542" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142542_6062_YMN_VIE_FC-WEB.jpg" group-title="Football", AFC U17 Asian Cup Saudi Arabia 2026: Yemen Vs Vietnam (ENGLISH)
+#EXTINF:-1 tvg-id="142176" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg" group-title="Football", Women's Super League 2025-26: Brighton And Hove Albion Women Vs Arsenal Women (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142542_english_hls_f44fe56eef81551_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142543" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142543_6062_KOR_UAE_FC-WEB.jpg" group-title="Football", AFC U17 Asian Cup Saudi Arabia 2026: Korea Republic Vs United Arab Emirates (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142543_english_hls_ee2aa29dad71588_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/142176_english_hls_c6d77d9da057361_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142219" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", ATP Masters Internazionali BNL d'Italia 2026: Day 1   Main Feed (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -15,7 +11,3 @@ https://in-mc-plive.fancode.com/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-plive.fancode.com/mumbai/142218_english_hls_6b3de5389617004_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142555" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", ATP Masters Internazionali BNL d'Italia 2026: Day 1   Bnp Paribas Arena (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-plive.fancode.com/mumbai/142555_english_hls_4eaaa69f5143213_1ta-di_h264/index.m3u8
