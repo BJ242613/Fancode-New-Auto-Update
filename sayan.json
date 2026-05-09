@@ -2,133 +2,21 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:28:02 PM 09-05-2026",
+    "last_updated": "08:28:03 PM 09-05-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 55,
-    "live_matches": 13,
-    "upcoming_matches": 42,
+    "live_matches": 12,
+    "upcoming_matches": 43,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Elche Cf Vs Deportivo Alaves",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131176,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "09 May 2026 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131176_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-Web.png",
-                "PLAYBACK": "",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131176_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Elche CF",
-                    "shortName": "ELC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#253611",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "164232",
-                                "shortName": "A Rodriguez",
-                                "isOwnGoal": false,
-                                "goalTime": "72'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Deportivo Alaves",
-                    "shortName": "ALA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#537096",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "26110",
-                                "shortName": "T Martinez",
-                                "isOwnGoal": false,
-                                "goalTime": "51'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "STREAMING_CDN": {
-                "is_drm": true,
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131176_english_dash_18928_1drmta-di_h264/index.mpd",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131176_english_dash_18928_1drmta-di_h264/index.mpd",
-                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131176_english_dash_18928_1drmta-di_h264/index.mpd",
-                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131176_english_dash_18928_1drmta-di_h264/index.mpd",
-                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131176_english_dash_18928_1drmta-di_h264/index.mpd",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH",
-                "X-Served-By": "ROLEX",
-                "drm": {
-                    "keys": [
-                        "b99620c6e38348e6bd4db6aa50beba61:0e54459e6098211904fc55fe423df0a3"
-                    ],
-                    "jwk": {
-                        "keys": [
-                            {
-                                "k": "DlRFnmCYIRkE_FX-Qj3wow",
-                                "kid": "uZYgxuODSOa9TbaqUL66YQ",
-                                "kty": "oct"
-                            }
-                        ],
-                        "type": "temporary"
-                    },
-                    "clearkey": "b99620c6e38348e6bd4db6aa50beba61:0e54459e6098211904fc55fe423df0a3"
-                }
-            },
-            "auto_streams": null
-        },
         {
             "category": "Football",
             "title": "Jamshedpur Fc Vs Bengaluru Fc",
             "tournament": "ISL 2025-26",
             "match_id": 140511,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 May 2026 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -154,7 +42,10 @@
                     "color": "#00a4ed",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -173,7 +64,17 @@
                     "color": "#11318E",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "199",
+                                "shortName": "R Williams",
+                                "isOwnGoal": false,
+                                "goalTime": "38'"
+                            }
+                        ]
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -220,7 +121,7 @@
             "title": "Jamshedpur Fc Vs Bengaluru Fc",
             "tournament": "ISL 2025-26",
             "match_id": 140511,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 May 2026 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -246,7 +147,10 @@
                     "color": "#00a4ed",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -265,7 +169,17 @@
                     "color": "#11318E",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "199",
+                                "shortName": "R Williams",
+                                "isOwnGoal": false,
+                                "goalTime": "38'"
+                            }
+                        ]
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -312,7 +226,7 @@
             "title": "Jamshedpur Fc Vs Bengaluru Fc",
             "tournament": "ISL 2025-26",
             "match_id": 140511,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 May 2026 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -338,7 +252,10 @@
                     "color": "#00a4ed",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -357,7 +274,17 @@
                     "color": "#11318E",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "199",
+                                "shortName": "R Williams",
+                                "isOwnGoal": false,
+                                "goalTime": "38'"
+                            }
+                        ]
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -404,7 +331,7 @@
             "title": "Jamshedpur Fc Vs Bengaluru Fc",
             "tournament": "ISL 2025-26",
             "match_id": 140511,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 May 2026 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -430,7 +357,10 @@
                     "color": "#00a4ed",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -449,7 +379,17 @@
                     "color": "#11318E",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "199",
+                                "shortName": "R Williams",
+                                "isOwnGoal": false,
+                                "goalTime": "38'"
+                            }
+                        ]
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -496,7 +436,7 @@
             "title": "Sevilla Fc Vs Rcd Espanyol",
             "tournament": "LALIGA 2025-26",
             "match_id": 131178,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 May 2026 07:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -522,7 +462,10 @@
                     "color": "#daa335",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -541,7 +484,10 @@
                     "color": "#fff3db",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -744,11 +690,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/240p.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/360p.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/480p.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/540p.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/720p.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM",
-                    "cookie": "hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM",
-                    "cookie_valid": "1778409426",
-                    "create_date": "Saturday, May 9, 2026, 4:07:03 PM",
-                    "expire_date": "Sunday, May 10, 2026, 4:07:06 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/240p.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/360p.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/480p.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/540p.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/720p.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M",
+                    "cookie": "hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M",
+                    "cookie_valid": "1778424247",
+                    "create_date": "Saturday, May 9, 2026, 8:14:04 PM",
+                    "expire_date": "Sunday, May 10, 2026, 8:14:07 PM",
                     "language": "ENGLISH"
                 }
             ]
@@ -762,14 +708,14 @@
             "streamingStatus": "STARTED",
             "startTime": "09 May 2026 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Sebastian-Ofner_fc_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/142224_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Sebastian-Ofner_fc_web.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
                 "PLAYBACK": "",
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Sebastian-Ofner_fc_web.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
                 "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142224_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
@@ -1172,16 +1118,16 @@
             "language": "ENGLISH",
             "STREAMING_CDN": {
                 "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH",
-                "X-Served-By": "ROLEX",
+                "X-Served-By": "LOKI",
                 "backup": {
                     "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8",
                     "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8"
@@ -1189,11 +1135,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/1080p.m3u8",
-                    "cookie": null,
-                    "cookie_valid": "1778410262",
-                    "create_date": "Saturday, May 9, 2026, 4:21:02 PM",
-                    "expire_date": "Sunday, May 10, 2026, 4:21:02 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/240p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/360p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/480p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/540p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/720p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F",
+                    "cookie": "hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F",
+                    "cookie_valid": "1778425086",
+                    "create_date": "Saturday, May 9, 2026, 8:28:03 PM",
+                    "expire_date": "Sunday, May 10, 2026, 8:28:06 PM",
                     "language": "ENGLISH"
                 }
             ]
@@ -2219,73 +2165,6 @@
             "auto_streams": null
         },
         {
-            "category": "Kabaddi",
-            "title": "Goat Warriors Vs River Ranger",
-            "tournament": "Young Star Kabaddi League 2026",
-            "match_id": 142460,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 May 2026 10:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142460_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142460_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Goat Warriors",
-                    "shortName": "GW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-GW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#080859",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "River Ranger",
-                    "shortName": "RR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Football",
             "title": "Kerala Blasters Fc Vs Mohammedan Sc",
             "tournament": "ISL 2025-26",
@@ -2354,33 +2233,33 @@
         },
         {
             "category": "Kabaddi",
-            "title": "Raging Bulls Vs Jungle Panthers",
+            "title": "Goat Warriors Vs River Ranger",
             "tournament": "Young Star Kabaddi League 2026",
-            "match_id": 142461,
+            "match_id": 142460,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "10 May 2026 12:00 PM",
+            "startTime": "10 May 2026 10:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
+            "image": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142461_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142460_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
                 "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142461_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142460_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Raging Bulls",
-                    "shortName": "RB",
+                    "name": "Goat Warriors",
+                    "shortName": "GW",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RB@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-GW@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#84E3C7",
+                    "color": "#080859",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2393,10 +2272,10 @@
                     }
                 },
                 {
-                    "name": "Jungle Panthers",
-                    "shortName": "JP",
+                    "name": "River Ranger",
+                    "shortName": "RR",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JP@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RR@2x.png"
                     },
                     "isWinner": null,
                     "color": "#84E3C7",
@@ -2467,6 +2346,73 @@
                     },
                     "isWinner": null,
                     "color": "#ffc0cb",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Raging Bulls Vs Jungle Panthers",
+            "tournament": "Young Star Kabaddi League 2026",
+            "match_id": 142461,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 May 2026 12:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142461_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142461_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Raging Bulls",
+                    "shortName": "RB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Jungle Panthers",
+                    "shortName": "JP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2822,6 +2768,73 @@
             "auto_streams": null
         },
         {
+            "category": "Football",
+            "title": "Athletic Club Vs Valencia Cf",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131171,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 May 2026 07:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131171_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131171_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Athletic Club",
+                    "shortName": "ATH",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff674d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Valencia CF",
+                    "shortName": "VAL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4F7DE5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Kabaddi",
             "title": "Roaring Rhinos Vs Lightning Lions",
             "tournament": "Young Star Kabaddi League 2026",
@@ -2936,73 +2949,6 @@
                     },
                     "isWinner": null,
                     "color": "#df7b00",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Athletic Club Vs Valencia Cf",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131171,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 May 2026 07:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131171_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131171_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Athletic Club",
-                    "shortName": "ATH",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff674d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Valencia CF",
-                    "shortName": "VAL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4F7DE5",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -3292,42 +3238,65 @@
         },
         {
             "category": "Football",
-            "title": "Elche Cf Vs Deportivo Alaves",
-            "tournament": "LALIGA 2025-26",
-            "short_name": "LALIGA 2025-26",
-            "match_id": 131176,
-            "status": "STARTED",
-            "startTime": "09 May 2026 05:30 PM",
-            "startDate": "15 August 2025 05:30 AM",
-            "endDate": "24 May 2026 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-App.png",
+            "title": "Fc Madras Vs Punjab Fc Junior",
+            "tournament": "Dream Sports Championship Football 2026",
+            "match_id": 142371,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 May 2026 04:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131176_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-App.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142371_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131176_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_Dream-Sports-Championship.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+                "SPORT_BY_IMAGE": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-sporty--(1).png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142371_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
-            "teams": [
+            "team": [
                 {
-                    "id": 2740,
-                    "name": "Elche CF",
-                    "shortName": "ELC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
-                    "color": "#253611"
+                    "name": "FC Madras",
+                    "shortName": "FCM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#080859",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
-                    "id": 835,
-                    "name": "Deportivo Alaves",
-                    "shortName": "ALA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
-                    "color": "#537096"
+                    "name": "Punjab FC Junior",
+                    "shortName": "PFC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUNJ@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#080859",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
@@ -3619,6 +3588,50 @@
                 {
                     "id": 12121,
                     "name": "Day 4 - BNP Paribas",
+                    "shortName": "ATP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                    "color": "#FF0000"
+                },
+                {
+                    "id": 12122,
+                    "name": "Rome",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Day 4   Court 1",
+            "tournament": "ATP Masters Internazionali BNL d'Italia 2026",
+            "short_name": "Internazionali BNL d'Italia",
+            "match_id": 142621,
+            "status": "STARTED",
+            "startTime": "09 May 2026 04:30 PM",
+            "startDate": "06 May 2026 05:30 AM",
+            "endDate": "18 May 2026 12:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142621_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142621_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12121,
+                    "name": "Day 4 - Court 1",
                     "shortName": "ATP",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
