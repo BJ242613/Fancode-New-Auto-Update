@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="142916" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", ICC Men's T20 WC Africa Sub Regional Qualifier: Mali Vs Rwanda (ENGLISH)
+#EXTINF:-1 tvg-id="142918" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", ICC Men's T20 WC Africa Sub Regional Qualifier: Cameroon Vs Ivory Coast (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142916_english_hls_53f05877f592480_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/142918_english_hls_43a4cb2ca010580_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142917" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", ICC Men's T20 WC Africa Sub Regional Qualifier: Kenya Vs Sierra Leone (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/142917_english_hls_995a95b66f82812_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143030" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Roland Garros 2026: Men's Doubles Ft. India (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/143030_english_hls_c6b10cf32898412_1ta-di_h264/index.m3u8
