@@ -1,5 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="143077" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg" group-title="Cricket", Madhya Pradesh League T20, 2026: Rewa Jaguars Vs Royal Nimar Eagles (ENGLISH)
+#EXTINF:-1 tvg-id="143000" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/upvsmi-old.jpg" group-title="Cricket", Big Cricket League Season 2: Up Brij Stars Vs Mumbai Marines (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/143077_english_hls_fc2bd5be9270591_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/143000_english_hls_ab9d29dedb7333_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143198" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143198_6110_USA_CAN_fc-web.jpg" group-title="Cricket", ICC CWC League 2 Canada, 2026: Canada Vs Usa (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143028" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Cricket", Madhya Pradesh League T20 Women's 2026: Bundelkhand Bulls Women Vs Gwalior Shernis (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/143028_english_hls_a218314df556121_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143122" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis", ATP 250 - BOSS OPEN 2026: Day 5   Center Court (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143122_english_hls_66490e9bbc21672_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143129" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis", ATP 250 - Libema Open: Day 5   Center Court (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143129_english_hls_24c7eea39262434_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143207" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", RBC Canadian Open 2026: Day 2   Main Feed (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143207_english_hls_b82f7b3b7963183_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143209" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", RBC Canadian Open 2026: Day 2   Featured Holes (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143209_english_hls_77d3b121d026547_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143210" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", RBC Canadian Open 2026: Day 2   Featured Groups (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143210_english_hls_0fc3b4224686931_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143208" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", RBC Canadian Open 2026: Day 2   Marquee Group (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/143208_english_hls_b2dd6817eb34111_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139453" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA : Practice 2 (ENGLISH) [DRM]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139453_english_dash_37732_1drmta-di_h264/index.mpd
