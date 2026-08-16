@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4247471" tvg-logo="https://images.fancode.com/aig/match/v1784709183084/4247471_CASACARDS_SPORTY_APP.png" group-title="Football", EFL Championship 2026-27: Burnley Vs West Ham United (ENGLISH)
+#EXTINF:-1 tvg-id="4247998" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png" group-title="Cricket", Delhi Premier League, 2026: Outer Delhi Warriors Vs Purani Dilli 6 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4247471_english_hls_b78878245530114_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248337" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png" group-title="Cricket", Uttar Pradesh T20 League, 2026: Meerut Mavericks Vs Gaur Gorakhpur Lions (HINDI)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248337" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png" group-title="Cricket", Uttar Pradesh T20 League, 2026: Meerut Mavericks Vs Gaur Gorakhpur Lions (BHOJPURI)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4247575" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247575_53004_RAC_VIL_FC-Web.png" group-title="Football", LALIGA 2026-27: Racing Club De Santander Vs Villarreal Cf (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
