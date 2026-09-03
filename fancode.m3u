@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4249114" tvg-logo="https://images.fancode.com/aig/match/v1788273996413/4249114_CASACARDS_SPORTY_APP.png" group-title="Cricket", Sher-E-Punjab T20, 2026: Jalandhar Warriors Vs Bathinda Royals (HINDI)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4249114" tvg-logo="https://images.fancode.com/aig/match/v1788273996413/4249114_CASACARDS_SPORTY_APP.png" group-title="Cricket", Sher-E-Punjab T20, 2026: Jalandhar Warriors Vs Bathinda Royals (PUNJABI)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4249114_punjabi_hls_878d28704091807_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4248350" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png" group-title="Cricket", Uttar Pradesh T20 League, 2026: Lucknow Falcons Vs Meerut Mavericks (HINDI)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -23,3 +15,7 @@ https://in-mc-flive.fancode.com/mumbai/4249065_english_hls_25a1a01cab66933_1ta-d
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/4248670_english_hls_3f3edbce1c38940_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248459" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248459_53037_NAM_ZIM_FC-WEB.jpg" group-title="Cricket", South Africa and Zimbabwe tour of Namibia, 2026: Namibia Vs Zimbabwe (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/index.m3u8
